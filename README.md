@@ -1,1 +1,1 @@
-# Sea_Competition
+# NINO를 활용한 인도양 쌍극자 지수 예측
